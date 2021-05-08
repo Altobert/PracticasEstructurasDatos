@@ -35,7 +35,6 @@ int main(){
     borrarLista (&cabeza);
      
     printf ("\n");
-    system ("PAUSE");
      
 return 0;
 }
